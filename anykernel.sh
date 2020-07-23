@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Testing Kernels by lostark13 @ telegram
+kernel.string=Cannon Kernel by lostark13 @ telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
